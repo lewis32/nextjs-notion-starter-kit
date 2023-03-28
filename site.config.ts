@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Lewis' Notebook',
+  name: 'Lewis\' Notebook',
   domain: 'nextjs-notion-starter-kit-theta-three.vercel.app',
   author: 'Lewis',
 
